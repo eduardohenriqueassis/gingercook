@@ -1,7 +1,6 @@
 Hello there, I am Aras 👋. Happy to see you in my GitHub.
 
-<h3><a href="https://twitter.com/intent/follow?screen_name=codecygen">Twitter</a></h3>
-<h3><a href="https://www.linkedin.com/in/vahit-aras-sen-71a4229b/">LinkedIn</a></h3>
+<a href="https://twitter.com/codecygen" ><img src="https://img.shields.io/twitter/follow/codecygen.svg?style=social" /> </a>
 
 <!--
 **gingercook/gingercook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
