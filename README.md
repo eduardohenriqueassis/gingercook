@@ -4,14 +4,10 @@ Hello there, I am Aras <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7
 
 <br>
 
-<a href="https://twitter.com/codecygen">
-  <img align="left" alt="Aras Sen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vahit-aras-sen-71a4229b/">
-  <img align="left" alt="Aras Sen's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-<br>
+
+[![Twitter Badge](https://img.shields.io/badge/-@codecygen-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codecygen)](https://twitter.com/codecygen) [![Linkedin Badge](https://img.shields.io/badge/-Aras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vahit-aras-sen-71a4229b/)](https://www.linkedin.com/in/vahit-aras-sen-71a4229b/)
+
 <br>
 
 Freelance Work? You can reach me <a href="https://codecygen.com/#contact">here</a>.
